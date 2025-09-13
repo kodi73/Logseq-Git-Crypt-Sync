@@ -1,0 +1,1 @@
+# Logseq-Git-Crypt-Sync
