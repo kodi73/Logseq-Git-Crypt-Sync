@@ -26,26 +26,23 @@ To follow this guide, you will need the following software installed on your dev
 
 ## 📚 Usage Overview
 
-### 1️⃣ Windows Setup
+### 1️⃣ [**Windows Setup Guide**](docs/windows.md)
 
 The process begins on your Windows machine, which will serve as the primary setup environment. You will initialize the repository, configure `git-crypt`, and export a symmetric key.
 
-### 2️⃣ Android Setup
+### 2️⃣ [**Android Setup Guide**](docs/android.md)
 
 Next, you will configure your Android device to clone the encrypted repository and use the symmetric key to unlock your notes.
 
-### 3️⃣ Daily Workflow
+### 3️⃣ [**Linux Setup Guide**](docs/linux.md)
+
+We will learn how to setup the sync on any linux distro which can be reused for MAC.
+
+### 4️⃣ Daily Workflow
 
 Once both devices are set up, your daily routine will involve a simple sequence of commands to pull the latest notes, unlock them, make your changes, and then push the encrypted updates back to GitHub.
 
 ---
-
-## 📖 Detailed Guides
-
-For full, step-by-step instructions, please refer to the following documentation files:
-
--   [**Windows Setup Guide**](docs/windows.md)
--   [**Android Setup Guide**](docs/android.md)
 
 ## ⚙️ Automation Scripts
 
